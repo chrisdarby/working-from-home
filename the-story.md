@@ -184,9 +184,9 @@ By the end of it, my wife was practically pushing me out of the house when she g
 
 I started to finish my work day by locking myself away from work and family for half an hour to play guitar, or watch an episode of TV by myself, or i'd walk the dog, or go to the shops and take my sweet time buying one thing, just to get out and reset before coming back.
 
-At the moment pubs are closed, shops are closed, gyms and pools are closed, and options for getting out of the house and going somewhere are very slim pickings, so its even more vitally important that you identify that disconnect between work life and home life and give yourself time to reset and recharge by putting aside planned, guilt free time for yourself to do something you life, and encourage your partner to do the same.
+At the moment pubs are closed, shops are closed, gyms and pools are closed, and options for getting out of the house and going somewhere are very slim pickings, so its even more vitally important that you identify that disconnect between work life and home life and give yourself time to reset and recharge by putting aside planned, guilt free time for yourself to do something you like, and something that relaxes you, and encourage your partner to do the same.
 
-I ended up (much to my shame) taking my frustrations out on the kids, on my wife, being short with people because I didn't recognise what was going on with me, I didn't know at the time why I was tense, upset, burnt out and stressed... I was working from home, its supposed to be relaxing, but if not done properly, its the complete opposite, so make time for you, every day!
+I ended up (much to my shame) taking my frustrations out on the kids, on my wife, being short with people because I didn't recognise what was going on with me, I didn't know at the time why I was tense, upset, burnt out and stressed... I was working from home, its supposed to be the dream, but if not done properly, its the complete opposite, so make time for you, every day!
 
 #### Don’t Become Sedentary
 Oh my god, this one came along and bit me without realising it.  My job before working from home and my job now includes a commute, that commute includes at least an hour of walking each day.
