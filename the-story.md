@@ -3,7 +3,7 @@
  
 
 > ***Disclaimer before we begin** 
-> This is wholly a story of my own experiences, thoughts expressed within this monologue are my solely my own opinions and my own ideals and don't apply to any official advice or policies of any company or institution.  It's simply some possible advice for those who've never worked from home full time*
+> This is wholly a story of my own experiences, thoughts expressed within this monologue are solely my own opinions and my own thoughts and ideas, and don't apply to or necessarily reflect any official advice or policies of any company or institution.  It's simply some possible advice for those who've never worked from home full time, with that said, let's get started*
 
 #### Who am I
 My name is Chris Darby, I work in CIS at Durham University as an IS Specialist, I’m one of the people they call when the website has an issue or they need a new whizz-bang app to do something fancy.
