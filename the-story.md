@@ -1,9 +1,12 @@
-# The long winded monologue about the challenges of working from home full time during the apocolypse that could probably have been summed up in a few bullet points
+# The long winded personal monologue about the challenges of working from home full time during the apocalypse that could probably have been summed up in a few bullet points
 ### By Chris Darby
  
 
-#### Who Am I
-My name is Chris Darby, I work in CIS at Durham University as an IS Specialist, I’m one of the people you call when the website breaks, the CMS isn’t playing ball, you need a new whizz-bang app to do something fancy, or your online apps just don’t want to work.
+> ***Disclaimer before we begin** 
+> This is wholly a story of my own experiences, thoughts expressed within this monologue are my solely my own opinions and my own ideals and don't apply to any official advice or policies of any company or institution.  It's simply some possible advice for those who've never worked from home full time*
+
+#### Who am I
+My name is Chris Darby, I work in CIS at Durham University as an IS Specialist, I’m one of the people they call when the website has an issue or they need a new whizz-bang app to do something fancy.
 
 I’ve only been with Durham University for a few months, since October 2019, but have been a professional web developer since 1997.
 
@@ -12,7 +15,7 @@ My career has had me working for development studios in both Australia and the U
 Oh, I also know that I can waffle on, at great length, whether you want me to or not… so my apologies if this is really way too long...
 
 
-#### Why I Know What I’m Talking About
+#### Why ( I believe ) I know what i’m talking about
 
 My position previous to coming to the University had me working from home full time for 3 years, when I first started back in September 2016, I saw only the positives, eyes sparkling at the flexibility and freedom I was about to have, the joys of no longer having to commute to work meaning I could sleep that little bit later, however, I didn’t anticipate the challenges that came with working from home full time, my wife did, she warned me, repeatedly, but I didn’t listen.
 
@@ -27,7 +30,7 @@ But don’t get me wrong, working home was great, it really was, the flexibility
 So let’s talk about it and discuss some strategies...
 
 
-#### What Working From Home Is Like
+#### What working from home is like
 
 For me, it was equal amounts relaxing, isolating, frustrating, lonely, productive and flexible, although this isn’t going to be the case for a lot of people, particularly because when I worked for home, my wife was at work and for the majority of the time the kids were at school, at the moment a lot of you will have kids at home or your partner also working from home.
 
@@ -43,7 +46,7 @@ While isolation and loneliness had its drawbacks, equally, kids at home, a full 
 
 So, where do I begin…
 
-#### Your Work Day Routine
+#### Your work day routine
 
 It is absolutely important, and I cannot stress this enough, it is absolutely one of the most important things, that you set in place a proper work routine, a no-brainer right?
 
@@ -77,16 +80,17 @@ My wife used to remind me, repeatedly, for years, that I wasn’t at home, I was
 
 I'm not saying that was a rigid rule, occasionally I would find a gap and plan to spend an hour tidying, but 95% of the time, I was at work, and I had to keep it that way to keep myself sane (or as close to sane as one can possibly get)
 
-#### Working with Children about
-For those with children, in this current situation and with schools being closed, things like dropping off the kids from school and picking them up isn’t an issue, instead, they’ll most likely be there with you full time, asking questions every five minutes, or asking you to play.
+#### Working with children around you
+Full disclosure, for me... it's hard, it turned me for a while into a tyrannical parent until I got a hold on everything and learned to manage things better.
 
-I can’t go too much into how its going to be to care for children while you’re trying to work, because every child is different and my advice would only apply to my children.
+For those with children, in this current situation and with schools being closed, tasks like dropping off the kids from school and picking them up isn’t an issue, instead, they’ll most likely be there with you full time, asking questions every five minutes, or asking you to play, or monologging at you about something while you're in a virtual team meeting.
 
-Those of you who have older children, they’ll probably just get on with the day and manage themselves... but younger children, who don’t have an appreciation yet for boundaries that may have been put in place, will interrupt at every opportunity… but there are things you can do to minimise the effect of this, and a proper work environment is one of them...
+Those of you who have older children, they’ll probably just get on with the day and manage themselves... but younger children, who don’t have an appreciation yet for boundaries that may have been put in place, will interrupt at every opportunity… 
+
+I can’t go too much into how its going to be to care for your children while you’re trying to work, because every child is different and my advice would only apply to my children, but there are things you can do to minimise the distraction and disruption that children can have, and a proper work environment is one of them...
   
 
-#### Your Work Environment
-
+#### Your work environment
 Equal to setting up solid defined work hours and breaks, is making sure that your work environment is setup, equipped and if possible, separated from your home life.
 
 In my 3 years with working from home, I had many work environments, we converted the garage for a while, until a leak developed upstairs and I moved back inside the house, then we stuck a desk in the spare bedroom.
@@ -103,9 +107,13 @@ If you have no one else in the house with you during the day, then there are a l
 
 There is no one right way to do it, everyone has different work styles, different ways of doing things.
 
-My wife needs absolute silence when working or she can’t focus, I need noise, whether its music, podcasts or the comforting sound of old Simpsons episodes to properly disconnect from distraction around me.  Although I will stress, make sure it's something non-distracting, I used to assume I could work and listen to TV at the same time, and I can, as long as it's something you've seen or heard before, or something light that you probably wont be paying attention to.  I wasted a few hours over the course of being distracted by episodes of Madam Secretary a couple of years ago, i'd put it on as background noise, and then got myself hooked... 
+For example, my wife needs absolute silence when working or she can’t focus, I need noise, whether its music, podcasts or the comforting sound of old Simpsons episodes to properly disconnect from distraction around me.  
 
-#### Your Wellbeing - Leaving Work and Going Home
+I will stress, make sure that if you need noise, make sure it's something non-distracting, I used to assume I could work and listen to TV at the same time, and I can, as long as it's something i've seen or heard before, or something light that I probably wont be paying attention to.  
+
+I wasted a few hours at the beginning of my work from home tenure being distracted by episodes of Madam Secretary, i'd put it on as background noise, and then got myself hooked and distracted by the very thing that was supposed to keep me focused... 
+
+#### Your wellbeing - Leaving work at work and "going home"
 For some, if your laptop is with you when you’re supposed to be officially home, it is really easy to slip into the habit of “oh i’ll just take a look at this one thing”... “i’ll just quickly check my emails” and can easily lead to spending the evenings regularly messing about with work and disrupting that work/life balance.
 
 I’m still guilty of it myself today, I get emails and Teams messages through to my phone, sometimes late on an evening, and I respond, or quickly open the laptop occasionally to look at an issue, perpetuating the cycle.
@@ -118,26 +126,30 @@ Especially with everyone working from home, there will be a lot more work flowin
 
 As someone who's spent years not separating my home and work life, and having to learn the hard way how much effect this can have on your mental health, and with the majority of the work force now risking not separating work and home, I believe its of vital importance that we don't introduce and then perpetuate that cycle, and leave work at work, and home at home, even when they are in the same building.
   
+#### The Isolation and the Social Silence
 
-The Isolation and the Silence
+This was a big one for me, although I didn't realise it at the start, but this caused all sorts of issues.
 
-This was a big one for me, this caused all sorts of issues, I went from a job where I interacted with a dozen people every day face to face, down to a few text messages back and forth with co-workers in London and Harrogate during the day. Some weeks, especially those when kids were at school, i’d spend the majority of my time completely socially isolated.
+I went from a job where I interacted with a dozen people every day face to face, down to a few text messages back and forth with co-workers in London and Harrogate during the day and a team phone call once or twice a week.  I thought this was ok, 
 
-A lot of people like and need the social aspect of office working to break from the monotony of staring at a computer all day, others require complete isolation to work effectively, we’re all different.
+Some weeks, especially those when kids were at school, i’d spend the majority of my time completely socially isolated, not talking to anyone, when my co-workers were off work or on holiday, and it was just me in the "office", it was mentally damaging for me.   I do know some people who would love this isolation, love the silence, time to themselves, but the majority of us are social creatures and need the interaction.
 
+I know that given these current circumstances, social distancing is kinda the point, but not seeing someone face to face and being socially isolated are vastly different beasts. In the office people would catch up in the kitchen and have a chat, pop by each others desks and discuss work and non-work things, and that is good and healthy.
 
-I know that given these current circumstances, thats kinda the point. But not seeing someone face to face and being socially isolated are vastly different beasts. In the office people would catch up in the kitchen and have a chat
+I love getting on with my work, then popping my head over my desk for a few minutes to chat to my my team, have a bit of a laugh and then get back on with it, it breaks up the day, it keeps me sane and makes me enjoy my time in the office, and i'm sure it's the same for a lot of people.
 
-  
+Regular communication is key to a healthy work lifestyle
 
-Handling Distractions
+#### Keeping Communication Flowing
 
-Making Time For You
+In my old job we used Slack for group chats about work (and non-work) and the occasional conference call to discuss work, have out weekly team meetings, solve problems etc, but in that job I was largely self sufficient, I was given a job to do, and I go on with it on my own, there was no real collaboration because my projects were my projects.
 
-Developing and Maintaining a Routine
+Here in the University, we are a very collaborative team, people work and communicate across departments, projects are usually worked on by several people at once, and communication and collaboration is one of the key requirements of the work life here, and that doesn't need to stop just because we are working from home.
 
-Keeping Communication Flowing
+To keep communication flowing, regular communication through Teams and email, daily team calls about the work going onexperience a face 
 
-Don’t Become Sedentry
+#### Making Time For You
 
-Fitting Into Family Life
+#### Don’t Become Sedentry
+
+#### Fitting Into Family Life
