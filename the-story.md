@@ -95,49 +95,36 @@ When we got a dog my desk moved down to the kitchen until he was toilet trained.
 
 My daughter lives in Australia with her mum, and we keep a bedroom here for her, when she was in Australia, that room became (and will again become) my office, when she came over here, I setup a desk in my own bedroom to separate myself, i've even had a few stints on the couch.
 
-If you need to more closely supervise kids, such as being in the   
+If you need to more closely supervise kids, such as being in the same room, or working from the kitchen while they play in bedrooms or the lounge room, then isolate yourself with headphones.  If you need silence, get some noise cancelling ones, if you need noise then stick on something non-distracting.
 
-If you have no one else in the house with you during the day, then there are a lot of options as you won’t be distracted by people, however if you have kids in the house, partners in the house, or other distractions, the best option is always to find a space where you can separate yourself, possiby one where you can close the door and physically separate work from home.
+Make it clear, if possible, that while those are on and you're in front of the computer, that you're at work, and try and get children, partners and visitors (although at the moment we shouldn't be having visitors) to respect that.
 
-  
+If you have no one else in the house with you during the day, then there are a lot of options as you won’t be distracted by people, however if you have kids in the house, partners in the house, or other distractions, the best option is always to find a way to physically or virtually separate yourself.
 
-Those who already have a home office, perfect, those who don’t, consider setting up a desk in one of your lesser used rooms, even your own bedroom, as long as you can close the door.
+There is no one right way to do it, everyone has different work styles, different ways of doing things.
 
-  
+My wife needs absolute silence when working or she can’t focus, I need noise, whether its music, podcasts or the comforting sound of old Simpsons episodes to properly disconnect from distraction around me.  Although I will stress, make sure it's something non-distracting, I used to assume I could work and listen to TV at the same time, and I can, as long as it's something you've seen or heard before, or something light that you probably wont be paying attention to.  I wasted a few hours over the course of being distracted by episodes of Madam Secretary a couple of years ago, i'd put it on as background noise, and then got myself hooked... 
 
-Treat it like when you are in that room, you are at work, when you leave the room, close the laptop, and close the door behind you, you’re back home again.
-
-  
-
-There is no one right way to do it, everyone has differnt work styles, different ways of doing things.
-
-  
-
-My wife needs absolute silence when working or she can’t focus, I need noise, whether its music, podcasts or the comforting sound of old Simpsons episodes to properly disconnect from distraction around me, some people like or need the social aspect of office working to break from the monotony of staring at a computer all day, others require complete isolation to work effectively, we’re all different, the most I will suggest is that at a minimum, if you can, try and make sure you have a private space and routine that allows you to separate work from home, it will do wonders for your mental health in the long term.
-
-  
-  
-
-Your Wellbeing - Leaving Work and Going Home
-
+#### Your Wellbeing - Leaving Work and Going Home
 For some, if your laptop is with you when you’re supposed to be officially home, it is really easy to slip into the habit of “oh i’ll just take a look at this one thing”... “i’ll just quickly check my emails” and can easily lead to spending the evenings regularly messing about with work and disrupting that work/life balance.
-
-  
 
 I’m still guilty of it myself today, I get emails and Teams messages through to my phone, sometimes late on an evening, and I respond, or quickly open the laptop occasionally to look at an issue, perpetuating the cycle.
 
-  
+It’s not so bad when you’re in the office all day and then you pop open the laptop for 10 minutes, but when you’re home all day working, and then you finish working, and then you open up the laptop and continue working, it can quickly become the new normal, as a work force, we must all work together to try an avoid this.  I used to send emails late at night, knowing full well that they wouldn't be seen until the morning because they wouldn't be received until people got back into the office.   
 
-It’s not so bad when you’re in the office all day and then you pop open the laptop for 10 minutes, but when you’re home all day working, and then finishing working, and then continuing working, it can quickly become the new normal, especially with everyone working from home, there will be a lot more work flowing back and forth through communication channels and not having control of that will quickly show its strain on keeping that balance.
+But with a large chunk of the world now working from home, the lines can quickly become blurred, if you aren't expecting a reply until the morning to a message you want to send, then try and leave it until the morning to send it, otherwise with your co-worker also at home, he/she may respond right away, and then your respond to theirs, then you end up chatting about work matters on Teams, and all of a sudden, you're back at work at 9pm at night.
 
-  
+Especially with everyone working from home, there will be a lot more work flowing back and forth through communication channels and not having control of that will quickly show its strain on keeping that balance.
+
+As someone who's spent years not separating my home and work life, and having to learn the hard way how much effect this can have on your mental health, and with the majority of the work force now risking not separating work and home, I believe its of vital importance that we don't introduce and then perpetuate that cycle, and leave work at work, and home at home, even when they are in the same building.
   
 
 The Isolation and the Silence
 
 This was a big one for me, this caused all sorts of issues, I went from a job where I interacted with a dozen people every day face to face, down to a few text messages back and forth with co-workers in London and Harrogate during the day. Some weeks, especially those when kids were at school, i’d spend the majority of my time completely socially isolated.
 
-  
+A lot of people like and need the social aspect of office working to break from the monotony of staring at a computer all day, others require complete isolation to work effectively, we’re all different.
+
 
 I know that given these current circumstances, thats kinda the point. But not seeing someone face to face and being socially isolated are vastly different beasts. In the office people would catch up in the kitchen and have a chat
 
