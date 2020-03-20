@@ -80,6 +80,21 @@ My wife used to remind me, repeatedly, for years, that I wasn’t at home, I was
 
 I'm not saying that was a rigid rule, occasionally I would find a gap and plan to spend an hour tidying, but 95% of the time, I was at work, and I had to keep it that way to keep myself sane (or as close to sane as one can possibly get)
 
+#### Getting Ready To Go To Work
+I found very early on that hopping out of bed last minute, still in pyjamas and jumping on the laptop in my office and starting work ended up being detrimental for me, I got out of my normal life routine very quickly.
+
+Soon, I realised I worked much better, felt much better about myself and was able to keep things balanced if I treated going to work in the morning as if I was actually stepping out the door and going to work.  
+
+I got up at the same time I always would, sometimes half an hour later because I no longer had to catch a bus or do the commute, so I afforded myself a slight sleep in, but I would wake up, shower, get myself dressed, more comfortable clothes than what I might wear to work normally, but still fully dressed.
+
+I would come downstairs, do the normal morning routine, breakfast, walk the dog early, ease into the day and then start work at 8:30am as I normally would at any other job.
+
+I found doing it this way rather than just straight out of bed and onto the computer means that I was able to handle some of those household tasks that got in the way, I was able to be calm, fed and ready for work, I was able to focus better, I was able to separate my work hours and home hours, and just generally felt better about myself as a result.
+
+I didn't always brush my hair properly, well to be fair I sometimes come into the office looking like a scruff too, so that that point is moot, I won't always put on shoes if I wasn't physically leaving the house, sometimes not even socks if it wasn't a cold morning.
+
+Occasionally, very occasionally I allowed myself a CBF pyjama day, but for the vast majority of the time, I kept to a proper morning and finishing routine, and i'll tell you, it really helped!
+
 #### Working with children around you
 Full disclosure, for me... it's hard, it turned me for a while into a tyrannical parent until I got a hold on everything and learned to manage things better.
 
@@ -113,6 +128,9 @@ I will stress, make sure that if you need noise, make sure it's something non-di
 
 I wasted a few hours at the beginning of my work from home tenure being distracted by episodes of Madam Secretary, i'd put it on as background noise, and then got myself hooked and distracted by the very thing that was supposed to keep me focused... 
 
+#### Working with your partner in the house
+Unfortunately (or fortunately) I never encountered issues with this, my wife is front line staff with the NHS so rarely does work at home, but I understand a lot of people need their space or to be able to focus on work without distraction, and my only suggestion in this instance, is again to make sure you setup your own space to work where you can switch off from everything around you.
+
 #### Your wellbeing - Leaving work at work and "going home"
 For some, if your laptop is with you when you’re supposed to be officially home, it is really easy to slip into the habit of “oh i’ll just take a look at this one thing”... “i’ll just quickly check my emails” and can easily lead to spending the evenings regularly messing about with work and disrupting that work/life balance.
 
@@ -138,7 +156,7 @@ I know that given these current circumstances, social distancing is kinda the po
 
 I love getting on with my work, then popping my head over my desk for a few minutes to chat to my my team, have a bit of a laugh and then get back on with it, it breaks up the day, it keeps me sane and makes me enjoy my time in the office, and i'm sure it's the same for a lot of people.
 
-Regular communication is key to a healthy work lifestyle
+Regular communication, for most people is key to a healthy work lifestyle.
 
 #### Keeping Communication Flowing
 
@@ -146,10 +164,48 @@ In my old job we used Slack for group chats about work (and non-work) and the oc
 
 Here in the University, we are a very collaborative team, people work and communicate across departments, projects are usually worked on by several people at once, and communication and collaboration is one of the key requirements of the work life here, and that doesn't need to stop just because we are working from home.
 
-To keep communication flowing, regular communication through Teams and email, daily team calls about the work going onexperience a face 
+To keep communication flowing, regular communication through Teams and email is key, daily team calls about the work going on and just to catch up as you normally would on a morning helps with the isolation, and even better, as someone who has spent 7 years fostering a close and solid relationship with my daughter overseas, group video chats on Teams instead of just audio of via text really does help bridge that distance.
+
+Just make sure you're wearing pants if you have to get up from the desk... 
 
 #### Making Time For You
 
-#### Don’t Become Sedentry
+This is the one single area where I struggled the most, I initially didn't get into a good routine, I tried to take on too much at home while trying to work, I didn't leave the house, and I put no time aside for myself...
 
-#### Fitting Into Family Life
+For most of us, the commute to work, while always complained about, does give us much needed time or ourselves.  At the moment I have what some people would describe as "a nightmare commute" from my house in Hartlepool to the University, its an hour long bus ride "if" the buses are on time and not packed... sometimes it can be an hour and a half... but that hour and a half for me is very relaxing, I stick on some headphones, i'm out of the house, there is a clear separation between work and home and I spend an hour easing into my day.  
+
+I imagine its the same for a lot of people, even those who drive in, sometimes just that 20 minutes in the car with the radio on, separating yourself from home on your way to work gives your brain a clear boundary between work an home.
+
+When you're at home all the time, and especially at the moment when there isn't much option outside of home, it can have a very detrimental effect if you don't manage it.
+
+By the end of most days, I was so frazzled and tense after being isolated in the house all day, and finishing work and still being in the house, that I would look forward to popping to ASDA for a loaf of bread (if they haven't all be bought by panic buyers) just to have a reason to get out of the house.
+
+By the end of it, my wife was practically pushing me out of the house when she got home so I had some time to wind down before rejoining the family, I spent over a year not making time for myself, and at the same time not realising I wasn't making time for myself and it caused serious mental stress.
+
+I started to finish my work day by locking myself away from work and family for half an hour to play guitar, or watch an episode of TV by myself, or i'd walk the dog, or go to the shops and take my sweet time buying one thing, just to get out and reset before coming back.
+
+At the moment pubs are closed, shops are closed, gyms and pools are closed, and options for getting out of the house and going somewhere are very slim pickings, so its even more vitally important that you identify that disconnect between work life and home life and give yourself time to reset and recharge by putting aside planned, guilt free time for yourself to do something you life, and encourage your partner to do the same.
+
+I ended up (much to my shame) taking my frustrations out on the kids, on my wife, being short with people because I didn't recognise what was going on with me, I didn't know at the time why I was tense, upset, burnt out and stressed... I was working from home, its supposed to be relaxing, but if not done properly, its the complete opposite, so make time for you, every day!
+
+#### Don’t Become Sedentary
+Oh my god, this one came along and bit me without realising it.  My job before working from home and my job now includes a commute, that commute includes at least an hour of walking each day.
+
+I'd walk to the bus stop, do the bus ride, then 15-20 minutes walking to my desk, more at the University thanks to that pain in the arse hill! 
+
+I went from getting 20-30 mins of exercise each morning and afternoon on my commute and another 20-30 mins during the day with my coworkers walking to get lunch, to being mostly sedentary inside the house, it made me lazy, I got unfit (more-so), and once I started working again, realised that i'd actually injured myself as a result of my non-movement.
+
+A result of my 3 years of working from home has left me with both achilles tendons damaged from regular non-use, going from very little walking during the week to 30 mins each way of moderate activity walking to work has left me with damage that i didn't expect, and left me far more unfit than I used to be.  Co-workers in CIS will often see me limping too and fro until my tendons have warmed up, its taken me 6 months to go from a painful limp, to a slightly less painful limp.
+
+Aside from dealing with routine, social isolation and distraction, don't neglect your health as a by-product.  I plan in this next 3 months to each day get out for a walk, or spend 25 minutes doing some sort of video based exercise routine, just to not get back into that sedentary lifestyle.
+
+Especially with gyms and fitness centres closed, and people being urged not to get out and mingle, its more important now that proper plans are made to keep yourself fit and healthy,
+
+#### Final Thoughts
+Working from home is a great opportunity, but also has a lot of drawbacks and gotchas if you don't plan properly...
+
+I don't have all the answers and this is purely from my own experience.
+
+Hopefully it's helpful to some.
+
+I can be contacted at christopher.f.darby@durham.ac.uk if anyone has any questions.
